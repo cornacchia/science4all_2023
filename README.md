@@ -2,8 +2,6 @@
 
 Ho presentato queste diapositive durante l'evento [Science4All 2023](https://www.unipd.it/news/second-edition-science4all-starts-late-september) dell'Università di Padova. Seguono alcune note per spiegarne il contenuto (prevalentemente pittorico).
 
-Per domande e osservazioni potete scrivere a 
-
 ### Slide 4
 _“Il Pensiero Computazionale è la capacità di esprimere soluzioni a problemi in modo tale che queste siano eseguibili da un agente meccanico.”_ è una traduzione (parafrasata) della famosa definizione data da Jeanette M. Wing [qui](https://www.cs.cmu.edu/~CompThink/papers/TheLinkWing.pdf).
 Le prima parola chiave è **eseguibili**, nel senso di non ambigue, che non richiedono ulteriore intervento da parte del programmatore o interpretazione da parte dell'esecutore. La seconda parola chiave è **agente meccanico**, il quale può banalmente essere un computer o dispositivo dotato di processore, ma può anche essere un essere umano che agisca, appunto, in modo meccanico, eseguendo le istruzioni alla lettera.
